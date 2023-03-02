@@ -5,7 +5,7 @@
 
 built with **React, Redux, Tailwind CSS and Shazam API** and hosted with [Netlify](https://netlify.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f08a3f2-9664-468c-a9d1-3578c57b7026/deploy-status)](https://app.netlify.com/sites/abrahamcarvalhoo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/decd930e-92e6-4aef-a4e8-ddd22cdedf7e/deploy-status)](https://app.netlify.com/sites/lune-music/deploys)
 
 ![demo](https://raw.githubusercontent.com/abrahamcarvalhoo/lune-music/main/src/assets/demo.png)
 </div>
